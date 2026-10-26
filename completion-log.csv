@@ -1,0 +1,9 @@
+Ticket,Platform,Execution date,Environment,Status,Observed result,Screenshot paths,Next action
+INC0010001,ServiceNow,,Not configured,Not executed,,,Complete setup and record actual result
+INC0010002,Active Directory,,Not configured,Not executed,,,Complete setup and record actual result
+INC0010003,Microsoft Entra ID,,Not configured,Not executed,,,Complete setup and record actual result
+REQ0010004,Microsoft 365,,Not configured,Not executed,,,Complete setup and record actual result
+INC0010005,Microsoft Intune,,Not configured,Not executed,,,Complete setup and record actual result
+INC0010006,Quick Assist,,Not configured,Not executed,,,Complete setup and record actual result
+REQ0010007,Okta,,Not configured,Not executed,,,Complete setup and record actual result
+INC0010008,ServiceNow and identity team,,Not configured,Not executed,,,Complete setup and record actual result
